@@ -1,5 +1,5 @@
 # Project Information
-## _Spotify clone, Ever_
+## _Whatsapp clone, Ever_
 
 I made Whatsapp clone with React js,Express.js, Mongodb,  HTML, CSS and pusher, In which you send the message to other users.
 
