@@ -21,7 +21,7 @@ I made Whatsapp clone with React js,Express.js, Mongodb,  HTML, CSS and pusher, 
 **Table of Contents**
 
 
-## Spotify Api
+## Pusher
 https://pusher.com/ please visit and read the complete documentation
 ## npm install
  ### `npm install` run
